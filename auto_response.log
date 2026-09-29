@@ -1,0 +1,27 @@
+[2026-09-29 15:44:55] Auto-response engine started. Watching Suricata alerts...
+[2026-09-29 15:45:15] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:15] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:16] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:16] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:17] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:17] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:17] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:17] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:17] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:17] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:18] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:18] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:18] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:18] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:18] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:18] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:18] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:18] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:22] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:22] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:22] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:22] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:23] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:23] SKIPPED blocking 10.0.2.15 (whitelisted)
+[2026-09-29 15:45:23] ALERT MATCHED: sid=1000002 signature='CUSTOM Possible Port Scan - Multiple SYN' src_ip=10.0.2.15
+[2026-09-29 15:45:23] SKIPPED blocking 10.0.2.15 (whitelisted)
