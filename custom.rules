@@ -1,0 +1,2 @@
+alert icmp any any -> $HOME_NET any (msg:"CUSTOM Ping Detected"; sid:1000001; rev:1;)
+alert tcp $HOME_NET any -> any any (msg:"CUSTOM Possible Port Scan - Multiple SYN"; flags:S; threshold:type threshold, track by_src, count 10, seconds 5; sid:1000002; rev:1;)
